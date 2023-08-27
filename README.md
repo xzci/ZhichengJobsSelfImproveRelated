@@ -1,41 +1,47 @@
-# ZhichengJobsSelfImproveRelated
-
 Including the details of finding the jobs and self improvement and certifications of self sutdy things.
 
 # Content
 
-## Self improvement:
+## 01 Self improvement
 
-### Finance related
+### 01 Finance related
 
-- [ ] CFA I
+- [ ] 01 CFA I
 
-- [ ] FRM
+- [ ] 02 FRM
 
-### Languages
+- [ ] 03 CPA Australia
 
-- [ ] English - PTE
+### 02 Languages
 
-- [ ] Japanese - N1
+- [ ] 01 English - PTE
 
-### Technology
+- [ ] 02 Japanese - N1
 
-- [ ] Uipath certification
+### 03 Technology
 
-- [ ] Data sciecne certification
+- [ ] 01 Uipath Developer certification
 
-- [ ] PowerBi certification
+- [ ] 02 Uipath Business Analyst certification
 
-## Projects
+- [ ] 03 Data sciecne certification
 
-### FrontEnd
+- [ ] 04 PowerBi certification
 
-- [ ] Project 1 From udemy
+## 02 Projects
 
-- [ ] Project 2 From udemy
+### 01 FrontEnd
 
-- [ ] Portfolio
+- [ ] 01 Project 1 From udemy
+
+- [ ] 02 Project 2 From udemy
+
+- [ ] 03 Portfolio
 
 ---
 
 ## Detials
+
+## Others
+
+- [Daily Plan and Status](https://docs.google.com/document/d/18L8QlzgqlVTnEJJufZ3DY_ezdRrpozgbvAwOBJw_aMI/edit)
